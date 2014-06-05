@@ -31,6 +31,7 @@ public class Config {
   private String password;
   private String[] masters;
   private char command_symbol;
+  private boolean ssl_enabled;
   private String network;
   private String channel;
   private String wunderground_key;
@@ -66,6 +67,15 @@ public class Config {
    */
   public String[] getMasters() {
     return masters;
+  }
+  
+    /**
+   * 
+   * @return the bot's connection type (ssl: yes/no)
+   * @since 2014-03-09
+   */
+  public boolean getConnectionType() {
+    return ssl_enabled;
   }
 
   /**
