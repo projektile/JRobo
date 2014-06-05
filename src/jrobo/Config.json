@@ -1,15 +1,17 @@
 {
-    "name": "^JRobo^",
+    "name": "jrobo",
     "second_name": "^JRobo^",
     "password": "",
     "masters": [
-      "BullShark@windfyre.net",
-      "StompinBroknGlas@StompinBroknGlas.Blackhats",
-      "StingRay@StompinBroknGlas.Blackhats"
+      "projektile@windfyre.net",
+      "BullShark@windfyre.net"
+/*      "StompinBroknGlas@StompinBroknGlas.Blackhats",
+      "StingRay@StompinBroknGlas.Blackhats"*/
     ],
+    "ssl_enabled": "FALSE",
     "hostmasks":[""],
-    "command_symbol":".",
-    "network":"irc.windfyre.net:6667",
-    "channel":"#blackhats",
+    "command_symbol":"!",
+    "network":"irc.rizon.net:6667",
+    "channel":"#kisskiss",
     "wunderground_key":"abcd"
 }
