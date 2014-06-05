@@ -12,7 +12,6 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 /**
- *
  * @author Christopher Lemire <christopher.lemire@gmail.com>
  * TODO Change to class and move code here
  */
