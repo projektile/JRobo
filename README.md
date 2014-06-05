@@ -1,25 +1,3 @@
-## Project Members
-
-[BinaryStroke](https://github.com/BinaryStroke "Developer") (StompinBroknGlas on irc)
-
-Developer
-
-
-[projektile](https://github.com/projektile "Developer") (Tyler Pollard)
-
-Developer
-
-
-[teslasolutions](https://github.com/teslasolution "Developer") (Muhammad Sajid)
-
-Developer
-
-
-[BullShark](https://github.com/BullShark "Core Developer") (Christopher Lemire)
-
-Founder and Lead Developer
-
-
 ## About
 
 JRobo is an advanced IRC bot that uses its own IRC framework. It was written from scratch.
@@ -102,7 +80,8 @@ Tested, and it works.
 
 ## Develop
 
-Contact me (BullShark) if you would like to contribute to this project, and you might be able to become a collaborator.
+The original JRobo project can be found at Bullsharks github, I forked it because I was maintaining a branch that hadn't been merged for over a year. however you can still contact BullShark if you would like to contribute to this project, and you might be able to become a collaborator, or feel free to fork it yourself.
+
 
 This works best under Netbeans, but you can choose a different development environment. It is recommended to use my custom build.xml to include Google's GSON for JSON library and other jar libraries bundled with JRobo.jar.
 
