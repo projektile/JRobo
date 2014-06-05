@@ -12,6 +12,6 @@
     "hostmasks":[""],
     "command_symbol":"!",
     "network":"irc.rizon.net:6667",
-    "channel":"#kisskiss",
+    "channel":"#2dpd",
     "wunderground_key":"abcd"
 }
