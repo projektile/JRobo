@@ -38,7 +38,7 @@ JRobo is an advanced IRC bot that uses its own IRC framework. It was written fro
  * bomb
   * Initiates a timer
   * Allows bomb to be passed between users in the channel
-  * Displays ASCII art explosion and kicks the user holding it when timer runs out
+  * Displays ASCII art explosion and kicks the user holding it when the timer runs out
  * isup &lt;url&gt;
   * Checks if the url is really up or down
  * version
