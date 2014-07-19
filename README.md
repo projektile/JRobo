@@ -5,7 +5,7 @@
 JRobo is an advanced IRC bot that uses its own IRC framework. It was written from scratch.
 
 # Features
- * Connect via SSL
+ * Ability to connect via SSL
  * Colored and formatted output
  * Ability to respond to actions such as a user who joined
  * Auto reponds to its name with a random joke
