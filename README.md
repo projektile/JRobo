@@ -1,4 +1,5 @@
-## JRobo [projektile's fork] [![Build Status](https://drone.io/github.com/gogits/gogs/status.png)](https://drone.io/github.com/gogits/gogs/latest)
+## JRobo [projektile's fork]
+[![Build Status](https://drone.io/github.com/gogits/gogs/status.png)](https://drone.io/github.com/gogits/gogs/latest)
 ## About
 
 JRobo is an advanced IRC bot that uses its own IRC framework. It was written from scratch.
