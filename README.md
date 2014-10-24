@@ -1,5 +1,5 @@
 ## JRobo [projektile's fork]
-
+[![Build Status](http://a.pomf.se/dwewnj.png)]
 ## About
 
 JRobo is an advanced IRC bot that uses its own IRC framework. It was written from scratch.
