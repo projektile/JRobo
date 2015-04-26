@@ -5,10 +5,10 @@
 JRobo is an advanced IRC bot that uses its own IRC framework. It was written from scratch.
 
 ## Credit
- * <2013> Christopher Lemire
- * <2013> BinaryStroke
- * <2013> Muhammad Sajid
- * <2013> projektile
+ * Christopher Lemire
+ * BinaryStroke
+ * Muhammad Sajid
+ * projektile
 
 # Features
  * Ability to connect via SSL
