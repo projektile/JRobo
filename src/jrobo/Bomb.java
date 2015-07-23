@@ -98,7 +98,7 @@ public class Bomb{
   }
   
   /*
-   * This is the enumating class for wire function.
+   * This is the enumerating class for wire function.
    * It contains all the options for WireColors used elsewhere.
    */
   public enum WireColor {
